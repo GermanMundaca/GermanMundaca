@@ -2,7 +2,7 @@
 - 25 years old.
 - Nacionality: chilean
 
-My code is mainly focused in 🌍 Web Develpment: Front-End with javascript, bootstrap, Jquert, HTML and CSS.
+My code is mainly focused in 🌍 Web Develpment: Front-End with javascript, bootstrap, Jquery, HTML and CSS.
 - 🌱 I’m currently learning Web develpment Full-stack on Udemy 
 
 --->
