@@ -14,7 +14,7 @@ Control de versiones: Git
 Estoy siempre abierto a colaborar en proyectos interesantes y desafiantes. Si tienes una idea o necesitas ayuda con un proyecto, ¡no dudes en contactarme!
 
 📫 Contacto
-Puedes encontrarme en LinkedIn o enviarme un correo a germana.mundaca@gmail.com.
+Puedes enviarme un correo a germana.mundaca@gmail.com.
 
 💼 ¡Gracias por visitar mi perfil!
 No dudes en explorar mis repositorios para ver mi trabajo más reciente y los proyectos en los que estoy trabajando actualmente.
