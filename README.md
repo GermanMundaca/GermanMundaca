@@ -27,7 +27,7 @@ Apasionado por la construcción de pipelines de datos escalables, modelado dimen
 
 ---
 
-## 📌 Proyecto Estrella Destacado
+##  Proyecto Estrella Destacado
 
 ### 🛒 [E-Commerce End-to-End Data Engineering Pipeline](https://github.com/GermanMundaca/ecommerce-pipeline)
 > **Pipeline ELT completo containerizado en Docker que ingesta, transforma, valida y orquesta datos transaccionales de E-Commerce.**
@@ -39,7 +39,7 @@ Apasionado por la construcción de pipelines de datos escalables, modelado dimen
 
 ---
 
-## 📫 ¡Conectemos!
+## ¡Conectemos!
 
 - **LinkedIn:** [linkedin.com/in/german-dev](https://www.linkedin.com/in/german-dev/)
 
